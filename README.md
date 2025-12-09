@@ -24,14 +24,7 @@ This repository contains a simple machine learning project that models the profi
 
 - Matplotlib
 
-## Open in Google Colab
-
-Click the badge below to open the project directly in Google Colab:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/fjnelima-pixel/agriculture-enterprise-development-project/blob/main/Agriculture%20Enterprise%20Development%20Project.ipynb
-)
-
+- Google Colab
 
 ## Use Cases
 
