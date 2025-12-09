@@ -1,47 +1,47 @@
-Predicting Profitability of Smallholder Fodder Enterprises
+## Predicting Profitability of Smallholder Fodder Enterprises
 
 This repository contains a simple machine learning project that models the profitability of smallholder fodder enterprises in Kenya. It is inspired by real enterprise development challenges faced by dairy value chain actors—including fodder producers, cooperatives, youth entrepreneurs, and SMEs.
 
-Objectives
+## Objectives
 
-Build a synthetic dataset for fodder enterprises
+- Build a synthetic dataset for fodder enterprises
 
-Analyze cost drivers, yield performance, and profit margins
+- Analyze cost drivers, yield performance, and profit margins
 
-Build a linear regression model to predict enterprise profitability
+- Build a linear regression model to predict enterprise profitability
 
-Generate insights useful for enterprise development practitioners
+- Generate insights useful for enterprise development practitioners
 
-Export an enterprise viability scorecard
+- Export an enterprise viability scorecard
 
-Tools Used
+## Tools Used
 
-Python
+- Python
 
-Pandas
+- Pandas
 
-Scikit-Learn
+- Scikit-Learn
 
-Matplotlib
+- Matplotlib
 
-Google Colab
+- Google Colab
 
-Use Cases
+## Use Cases
 
-Agribusiness advisory
+- Agribusiness advisory
 
-Youth & women enterprise development
+- Youth & women enterprise development
 
-Cooperatives support
+- Cooperatives support
 
-Value chain development
+- Value chain development
 
-Project design & data-driven decision-making
+- Project design & data-driven decision-making
 
-Results
+## Results
 
-Feature importance ranking
+- Feature importance ranking
 
-Enterprise viability scoring system
+- Enterprise viability scoring system
 
-Dataset and outputs included for reuse
+- Dataset and outputs included for reuse
