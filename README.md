@@ -45,3 +45,5 @@ This repository contains a simple machine learning project that models the profi
 - Enterprise viability scoring system
 
 - Dataset and outputs included for reuse
+
+Author: Faith N. Weyombo - Financial & Data Analyst
